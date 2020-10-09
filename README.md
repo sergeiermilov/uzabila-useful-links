@@ -11,7 +11,8 @@ Most useful links for web-developer and designer.
 - PHP compiler from w3schools - [link](https://www.w3schools.com/php/phptryit.asp?filename=tryphp_compiler)  
 - PHP Simple HTML DOM Parser - [link](https://simplehtmldom.sourceforge.io/)
 ## CMS
-- Publii (without Data Base) - [link](https://getpublii.com/)
+- Publii (without Data Base) - [link](https://getpublii.com/)  
+- HTMLy - [link](https://www.htmly.com/) - [docs](https://docs.htmly.com/)
 ## Wordpress
 - Developer Starter Theme "Underscore" - [link](https://underscores.me/)
 - Advanced Custom Fields - [link](https://www.advancedcustomfields.com/)
