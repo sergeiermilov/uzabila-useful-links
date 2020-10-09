@@ -13,7 +13,9 @@ Most useful links for web-developer and designer.
 ## CMS
 - Publii (without Data Base) - [link](https://getpublii.com/)
 ## Wordpress
+- Developer Starter Theme "Underscore" - [link](https://underscores.me/)
 - Advanced Custom Fields - [link](https://www.advancedcustomfields.com/)
 - Gravity Forms - [link](https://www.gravityforms.com/)  
 ## Misc.
-- Yandex SpeechKit - [demo](https://cloud.yandex.ru/services/speechkit#demo) - [link](https://cloud.yandex.ru/services/speechkit)
+- Yandex SpeechKit - [demo](https://cloud.yandex.ru/services/speechkit#demo) - [link](https://cloud.yandex.ru/services/speechkit)  
+- Foreign exchange rates API - [link](https://fixer.io/)
