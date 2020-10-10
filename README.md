@@ -3,6 +3,8 @@ Most useful links for web-developer and designer.
 - Last Modified checking - [link](https://last-modified.com/ru/if-modified-since.html)  
 - Make 301 redirect - [link](https://donatstudios.com/RewriteRule_Generator)  
 - HTML Escape / Unescape - [link](https://www.freeformatter.com/html-escape.html)  
+- HTML minifier - [link](http://minifycode.com/html-minifier/)  
+- JSlint - [link](http://www.jslint.com/)
 ## Design
 - SVG compressor - [link](https://vecta.io/nano)  
 - AutoDraw - [link](https://www.autodraw.com/)
