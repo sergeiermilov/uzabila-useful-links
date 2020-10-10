@@ -21,3 +21,9 @@ Most useful links for web-developer and designer.
 - Yandex SpeechKit - [demo](https://cloud.yandex.ru/services/speechkit#demo) - [link](https://cloud.yandex.ru/services/speechkit)  
 - Foreign exchange rates API - [link](https://fixer.io/)  
 - AbuseIPDB - [link](https://www.abuseipdb.com/)
+## Money
+- Payoneer - [link](payoneer.com)  
+- Skrill - [link](https://www.skrill.com/en/)  
+- PayPal - [link](https://www.paypal.com/)  
+- Stripe - [link](https://stripe.com/)  
+= Square - [link](https://squareup.com/us/en)
