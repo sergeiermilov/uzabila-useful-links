@@ -6,6 +6,7 @@ Most useful links for web-developer and designer.
 - HTML minifier - [link](http://minifycode.com/html-minifier/)  
 - JSlint - [link](http://www.jslint.com/)
 ## Design
+- CSS Minifier - [link](https://cssminifier.com/)
 - SVG compressor - [link](https://vecta.io/nano)  
 - AutoDraw - [link](https://www.autodraw.com/)
 ## PHP
@@ -28,4 +29,4 @@ Most useful links for web-developer and designer.
 - Skrill - [link](https://www.skrill.com/en/)  
 - PayPal - [link](https://www.paypal.com/)  
 - Stripe - [link](https://stripe.com/)  
-= Square - [link](https://squareup.com/us/en)
+- Square - [link](https://squareup.com/us/en)
