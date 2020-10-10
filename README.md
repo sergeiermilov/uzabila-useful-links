@@ -6,7 +6,8 @@ Most useful links for web-developer and designer.
 - HTML minifier - [link](http://minifycode.com/html-minifier/)  
 - JSlint - [link](http://www.jslint.com/)
 ## Design
-- CSS Minifier - [link](https://cssminifier.com/)
+- CSS Minifier - [link](https://cssminifier.com/)  
+- Google Webfonts Helper - [link](https://google-webfonts-helper.herokuapp.com/fonts)  
 - SVG compressor - [link](https://vecta.io/nano)  
 - AutoDraw - [link](https://www.autodraw.com/)
 ## PHP
