@@ -19,4 +19,5 @@ Most useful links for web-developer and designer.
 - Gravity Forms - [link](https://www.gravityforms.com/)  
 ## Misc.
 - Yandex SpeechKit - [demo](https://cloud.yandex.ru/services/speechkit#demo) - [link](https://cloud.yandex.ru/services/speechkit)  
-- Foreign exchange rates API - [link](https://fixer.io/)
+- Foreign exchange rates API - [link](https://fixer.io/)  
+- AbuseIPDB - [link](https://www.abuseipdb.com/)
